@@ -1,0 +1,26 @@
+{
+  "name": "react-native-passcode-pad",
+  "version": "1.0.0",
+  "description": "React native passcode pad, allowing you to get that big text input feel",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dweng0/react-native-passcode-pad.git"
+  },
+  "keywords": [
+    "textinput",
+    "numberpad",
+    "phone-pad",
+    "passcode"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.60.4"
+  },
+  "author": "Jay Martin-Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dweng0/react-native-passcode-pad/issues"
+  },
+  "homepage": "https://github.com/dweng0/react-native-passcode-pad#readme"
+}
